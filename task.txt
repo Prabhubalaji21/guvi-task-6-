@@ -1,0 +1,29 @@
+first task error rectified answer
+//-- alert( “I’m JavaScript!’); inside the alert thwy given double quotes start ends with single quote error rectified
+ alert( "I’m JavaScript!");
+
+second 
+In this line at second task double quotes direction has been wrongly entered
+alert(“I’m invoked!”);
+rectified answer is we need to write sepearate function for the alert in javasccript html
+alert("I'm invoked");
+
+third
+explain how it works
+<!DOCTYPE html>
+<html>
+<body>
+ <script src=”script.js”></script>
+</body>
+</html>
+
+alert("I'm JavaScript!");
+alert('Hello') // this line is not having semicolon
+alert(`Wor
+ ld`)
+alert(3 +
+1
++ 2); // this is multiple line code and its working
+answer :- by using this js file has reference in html file it takes and runs the values 
+alert message it works because it don't have the conditions in html and multiple lines of code will work has line by line edition
+
